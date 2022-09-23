@@ -4,10 +4,20 @@
     box-sizing: border-box;
 }
 
+.flex{
+    display: flex;
+}
+
+.space-bet{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-items: center;
+}
+
 header{
     width: 100%;
-    background-color: #b4d0e7;
-    
 }
 
 nav{
@@ -16,22 +26,29 @@ nav{
     position: fixed;
     top: 0;
     z-index: 1;
-    align-items: center;
     padding: 10px;
-    
 }
 
+.btn{
+    padding: 10px; 
+}
 
+.btn-white{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+}
 
-.flex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.btn-blue{
+    background-color: #0061ff;
+    color: white;
+    border: 1px solid #0061ff;
 }
 
 ul li{
     display: inline-block;
     text-align: center;
+    padding: 7px;
 }
 
 .menu-1 > li{
@@ -40,37 +57,45 @@ ul li{
 
 
 
-.cont-centr{
-    width: 60%;
-    margin: 0 auto;
-    padding-top: 100px;
-}
-
 h1{
     font-size: 70px;
     text-align: left;
     padding: 10px 40px;
 }
 
+#cont-centr{
+    padding-top: 100px;
+    background-color: #b4d0e7;
+}
+
 .container{
-    padding-top: 40px;
-    width: 60%;
-    margin: auto;
-    display: flex;
+   width: 60%;
+   margin: 0 auto;
+}
+
+.title{
+    margin-bottom: 30px;
 }
 
 .box-text{
-    width: 50%;
-    text-align: left;
+    width: 35%;
+}
+
+.but-prova{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #0061ff;
+    color: white;
+    border: 1px solid #0061ff;
 }
 
 .box-img{
-   width: 50%;
+    width: 60%;
    
 }
 
-.img-jumbo{
-    width: 650px;
+.box-img img{
+    height: 400px;
 }
 
 
