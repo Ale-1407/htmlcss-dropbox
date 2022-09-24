@@ -242,3 +242,36 @@ a:hover{
     padding-bottom: 30px;
 }
 
+/* SECTION PARTNER*/
+
+.container4{
+    padding-top: 100px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.partner-img{
+    width: 50%;
+}
+
+.partner-text{
+    width: 35%;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+.partner-img img{
+    height: 400px;
+}
+
+.btn-partner{
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+    padding: 5px 10px;
+}
+
+.partner-text p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
