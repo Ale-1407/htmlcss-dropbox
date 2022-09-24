@@ -132,7 +132,7 @@ h2{
 .col-32{
     border: 1px solid grey;
     flex-basis: 32%;
-    height: 700px;
+    height: 850px;
 }
 
 .users{
@@ -152,6 +152,7 @@ h2{
 
 .icon-text{
     padding-top: 30px;
+    height: 200px;
 }
 
 .btn-prova2{
@@ -159,13 +160,18 @@ h2{
     color: white;
     border: 1px solid #0061ff;
     margin-top: 40px;
-    margin-left: 25px;
-    padding: 10px 30px;
+    margin-left: 30px;
+    width: 200px;
 }
 
 .bottone p{
-    padding-top: 20px;
+    margin-top: 20px;
 }
+
+.bottone-contattaci p{
+    margin-top: 20px;
+}
+
 
 a{
     color: black;
@@ -186,8 +192,13 @@ a:hover{
     background-color: grey;
     height: 1px;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .fa-check{
     color: #0061ff;
+}
+
+.piano{
+    margin-bottom: 30px;
 }
