@@ -473,3 +473,56 @@ a:hover{
 .fa-chevron-down{
     padding-left: 150px;
 }
+
+/* FOOTER */
+
+footer{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background-color: black;
+}
+.container10{
+    width: 60%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.col-footer{
+    color: white;
+    width: 20%;
+}
+
+.col-footer h3{
+    padding-bottom: 20px;
+}
+
+.col-footer p{
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.border-grey3{
+    width: 7%;
+    margin-left: 300px;
+    background-color: rgb(189, 186, 186);
+    height: 0.5px;
+}
+
+.lingua{
+    width: 60%;
+    margin: auto;
+    color: grey;
+    font-size: 13px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.fa-globe{
+    padding: 5px;
+}
+
+.fa-caret-up{
+    padding: 5px;
+}
