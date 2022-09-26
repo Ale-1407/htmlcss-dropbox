@@ -320,17 +320,60 @@ a:hover{
 
 .container7{
     padding-top: 100px;
-    width: 100%;
     margin: 0 auto;
+}
+
+.box-colorati{
     height: (100vw / 3);
 }
 
 .quadr{
     height: 50%;
+    width: 50%;
+}
+
+.loghi{
+    height: 50px;
+}
+
+.col-1{
+    width: calc(100%/2);
+}
+
+.col-3{
+    width: calc(100%/2);
 }
 
 .quadr-1{
     background-color: #a2d39b;
+    color: white;
+}
+.quadr-2{
+    background-color: #61082b;
+    color: white;
+}
+.quadr-3{
+    background-color: #0093ce;
+    color: white;
+}
+.quadr-4{
+    background-color: #ff1c1c;
+    color: white;
+}
+.quadr-5{
+    background-color: #d5001f;
+    color: white;
+}
+.quadr-6{
+    background-color: #b4d0e7;
+    color: white;
+}
+.quadr-7{
+    background-color: #0d2481;
+    color: white;
+}
+.quadr-8{
+    background-color: #ffd830;
     color: white;
 }
 
@@ -346,7 +389,7 @@ a:hover{
     margin: 0 auto;
     width: 60%;
     padding-top: 70px;
-    padding-bottom: 70px;
+    padding-bottom: 50px;
 }
 
 .drop-text h2{
