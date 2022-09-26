@@ -64,9 +64,9 @@ ul li{
 
 
 h1{
-    font-size: 70px;
+    font-size: 63px;
     text-align: left;
-    padding: 10px 40px;
+    padding: 10px;
 }
 
 /* SECTION JUMBO */
@@ -86,7 +86,8 @@ h1{
 }
 
 .box-text{
-    width: 35%;
+    width: 40%;
+    padding-left: 5px;
     position: relative;
 }
 
@@ -100,7 +101,7 @@ h1{
 }
 
 .box-img{
-    width: 60%;
+    width: 55%;
 }
 
 .box-img img{
@@ -123,7 +124,7 @@ h1{
 }
 
 h2{
-    font-size: 40px;
+    font-size: 30px;
     padding-bottom: 30px;
 }
 
@@ -314,6 +315,14 @@ a:hover{
     padding-top: 100px;
     width: 60%;
     margin: 0 auto;
+
+}
+
+.container6 div{
+    width: 60%;
+}
+.col-vuota{
+    width: 30%;
 }
 
 /* SECTION DESIGNIT*/
@@ -397,7 +406,8 @@ a:hover{
 }
 
 .drop-text{
-    width: 60%;
+    width: 45%;
+    padding-left: 40px;
 }
 
 .drop-butt{
