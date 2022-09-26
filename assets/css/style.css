@@ -60,7 +60,6 @@ ul li{
 }
 
 
-
 h1{
     font-size: 63px;
     text-align: left;
@@ -104,6 +103,7 @@ h1{
 
 .box-img img{
     height: 400px;
+    margin-bottom: -15%;
 }
 
 .box-text a{
@@ -127,13 +127,12 @@ h2{
 }
 
 .colonne{
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 .col-32{
     border: 1px solid grey;
     flex-basis: 32%;
-    height: 900px;
 }
 
 .users{
@@ -520,9 +519,9 @@ footer{
 }
 
 .fa-globe{
-    padding: 5px;
+    padding-right: 5px;
 }
 
 .fa-caret-up{
-    padding: 5px;
+    padding-left: 5px;
 }
