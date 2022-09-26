@@ -316,3 +316,56 @@ a:hover{
     margin: 0 auto;
 }
 
+/* SECTION DESIGNIT*/
+
+.container7{
+    padding-top: 100px;
+    width: 100%;
+    margin: 0 auto;
+    height: (100vw / 3);
+}
+
+.quadr{
+    height: 50%;
+}
+
+.quadr-1{
+    background-color: #a2d39b;
+    color: white;
+}
+
+/* SECTION PORTA DROPBOX IN AZIENDA*/
+
+.container8{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #b4d0e7;
+}
+
+.contenuto{
+    margin: 0 auto;
+    width: 60%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.drop-text h2{
+    color: #620c2f;
+}
+
+.drop-text{
+    width: 60%;
+}
+
+.drop-butt{
+    width: 30%;
+}
+
+.btn-prova3{
+    padding: 8px 30px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    margin-top: 10px;
+}
